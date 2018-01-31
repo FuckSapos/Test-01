@@ -2,3 +2,8 @@ html{
     background-color: rgb(235, 138, 121);
     font-family: sans-serif;
 }
+
+h1{
+    color: white;
+    text-transform: uppercase;
+}
